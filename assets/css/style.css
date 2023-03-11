@@ -12,7 +12,7 @@ input[type="search"], input[type="text"], input[type="password"] {
 h1{
   color: orange;
   margin: 0  0 0 10px;
-  font: normal 120% "centry-gothic", cursive;
+  font: normal 170% "centry-gothic", cursive;
   letter-spacing: 0.1em;
 }
 
@@ -43,7 +43,7 @@ a, a:hover{
 
 .logo h1, .logo h1 a, .logo h1 a:hover {
   font: normal 150% "centry-gothic", cursive;
-  color: orange;
+  color: purple;
   margin: 0 0 0 9px;
   text-decoration: none;
 }
@@ -51,7 +51,7 @@ a, a:hover{
 .logo h2 {
   margin: 0px 0 0 9px;
   font: 140% "centry-gothic", cursive;
-  color: blue;
+  color: darkorange;
 }
 
 .menu {
@@ -174,7 +174,7 @@ a, a:hover{
 
 .post h2, h2 a, h2 a:hover{
   text-decoration: none;
-  font: normal 'centry-gothic', cursive;
+  font: normal 130% 'centry-gothic', cursive;
   color: purple;
 }
 
