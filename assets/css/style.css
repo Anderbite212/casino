@@ -12,7 +12,7 @@ input[type="search"], input[type="text"], input[type="password"] {
 h1{
   color: orange;
   margin: 0  0 0 10px;
-  font: normal 170% "centry-gothic", cursive;
+  font: normal 170% "centry-gothic", Comic Sans MS;
   letter-spacing: 0.1em;
 }
 
@@ -42,7 +42,7 @@ a, a:hover{
 }
 
 .logo h1, .logo h1 a, .logo h1 a:hover {
-  font: normal 150% "centry-gothic", cursive;
+  font: normal 150% "centry-gothic", Comic Sans MS;
   color: purple;
   margin: 0 0 0 9px;
   text-decoration: none;
@@ -50,7 +50,7 @@ a, a:hover{
 
 .logo h2 {
   margin: 0px 0 0 9px;
-  font: 140% "centry-gothic", cursive;
+  font: 140% "centry-gothic", Comic Sans MS;
   color: darkorange;
 }
 
@@ -67,7 +67,7 @@ a, a:hover{
 }
 
 .menu li a{
-  font:  normal 100% 'trebuchet ms', sans-serif;
+  font:  normal 100% 'trebuchet ms', Comic Sans MS;
   display: block;
   height: 20 px ;
   padding: 6px 35px 5px 28px;
@@ -114,7 +114,7 @@ a, a:hover{
 }
 
 .sidebar h3{
-  font: normal 100% 'centry-gothic', arial;
+  font: normal 100% 'centry-gothic', Comic Sans MS;
   color: lightgray;
 }
 
@@ -174,7 +174,7 @@ a, a:hover{
 
 .post h2, h2 a, h2 a:hover{
   text-decoration: none;
-  font: normal 130% 'centry-gothic', cursive;
+  font: normal 130% 'centry-gothic', Comic Sans MS;
   color: purple;
 }
 
@@ -183,7 +183,7 @@ p{
   line-height: 2em;
 }
 .post_content{
-  font: normal 140% 'centry-gothic', sans-serif;
+  font: normal 140% 'centry-gothic', Comic Sans MS;
   color: darkgreen;
 }
 
@@ -243,7 +243,7 @@ p{
 
 .other_photo .read_more{
   display: inline-block;
-  font: normal 140% 'centry-gothic', arial;
+  font: normal 140% 'centry-gothic', Comic Sans MS;
   font-weight: bold;
   outline: none;
   text-decoration: none;
@@ -308,9 +308,9 @@ and (max-device-width: 600px) {
     float: none;
   }
   .logo h1{
-    font: normal 150% "centry-gothic", arial, cursive;
+    font: normal 150% "centry-gothic", arial, Comic Sans MS;
   }
   .logo h2{
-    font: 130% "centry-gothic", cursive;
+    font: 130% "centry-gothic", Comic Sans MS;
   }
 }
